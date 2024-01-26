@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+body{
+    font-family: Caveat, serif ;
+    font-size: 20px;
+    background: linear-gradient(43deg, #4d0c64 15%, #161964 100%);
+}
+.nav-link{
+    color: antiquewhite;
+}
+.navbar-nav .nav-link.active{
+    color: rgb(107, 255, 248);
+}
+.nav-link.active:hover{
+    color: orange;
+}
+
+.navbar-toggler {
+    background-color: azure;
+}
+.navbar-brand img{
+    width: 35px;    
+}
+
+.card{
+    background: linear-gradient(86deg, #4d0c64 15%, #161964 100%);
+    color: aquamarine;
+}
+.btn-outline{
+    color: rgb(0, 255, 128);
+    font-size: x-large;
+}
+section{
+    color: aquamarine;
+    font-size: x-large
+    ;
+}
+h1{
+    text-align: center;
+}
+#qwer{
+    color: aquamarine;
+}
+.list-group .list-group-item{
+    background-color: purple;
+    border-width: 0.001em;
+    border-color: black;
+    color: wheat;
+}
+h2{
+    text-align: center;
+    color: azure;
+}
+p{ 
+    color: wheat;
+}
